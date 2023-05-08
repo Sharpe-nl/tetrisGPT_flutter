@@ -17,7 +17,7 @@ git clone https://github.com/Sharpe-nl/tetrisGPT_flutter.git
 
 2. Navigate to the project folder and install the required packages:
 ```
-cd TetrisGPT
+cd tetrisGPT_flutter
 flutter pub get
 ```
 
